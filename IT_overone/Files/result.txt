@@ -1,0 +1,15 @@
+blue
+green
+purple
+orange
+brown
+white
+navy blue
+sky blue
+lime green
+salmon
+crimson
+olive
+cyan
+maroon
+beige

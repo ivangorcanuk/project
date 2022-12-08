@@ -1,0 +1,15 @@
+red
+yellow
+pink
+black
+gray
+gold
+silver
+teal
+indigo
+magenta
+violet
+khaki
+lavender
+plum
+blue violet
